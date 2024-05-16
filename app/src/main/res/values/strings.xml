@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cat Facts App</string>
+
+    <string-array name="CatBreeds">
+        <item>Siamese</item>
+        <item>Tabby</item>
+        <item>Ginger</item>
+    </string-array>
+
+    <string name="LoremIpsum">Lorem ipsum dolor sit amet,
+        consectetur x id orci fringilla mollis.
+        Vivamus ac sapien non lectus tempus tincidunt.
+        Quisque non mi at tellus euismod gravida nec
+    </string>
+
+
+</resources>
